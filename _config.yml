@@ -2,6 +2,10 @@
 #      Main Configs       #
 # ----------------------- #
 
+markdown: redcarpet
+baseurl: /blog
+exclude: ['README.md']
+
 url: http://yoursite.com
 title: Your Awesome Site
 email: your-email@domain.com
